@@ -1,4 +1,4 @@
-﻿# Tesla Roadster 2 · 喷气躲障碍 / Jet Dodge
+# Tesla Roadster 2 · 喷气躲障碍 / Jet Dodge
 
 **中文** | [English](#english)
 
@@ -14,6 +14,7 @@ A single-file HTML5 Canvas arcade game. Hold **Space** to fire the cold-gas thru
 
 ### 立即游玩
 
+- **在线试玩（GitHub Pages）**：<https://ilym-expl.github.io/tesla-roadster2/>
 - 下载或克隆本仓库，直接双击 **`tesla-roadster2.html`** 即可游玩——无需安装、无需构建、无需联网。
 - 单文件约 176 KB，所有美术、音效、代码都在 HTML 内部；不加载任何外部资源。
 - 也可以起一个本地静态服务器：`python -m http.server 8000`，然后打开 `http://localhost:8000/tesla-roadster2.html`。
@@ -97,6 +98,7 @@ LICENSE
 
 ### Play now
 
+- **Play online (GitHub Pages):** <https://ilym-expl.github.io/tesla-roadster2/>
 - Download or clone this repo and open **`tesla-roadster2.html`** in a browser. No install, no build step, no network required.
 - One ~176 KB HTML file: all art, audio, and code are inline; no external assets are loaded.
 - Or serve it locally: `python -m http.server 8000`, then open `http://localhost:8000/tesla-roadster2.html`.
